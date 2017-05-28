@@ -26,3 +26,6 @@ Pic of out of the project box. Ignore the OLED screen I was testing a code that 
 ![Alt text](Proof%20of%20concept.jpg?raw=true "Out of Box")
 
 ![Alt text](ready%20for%20testing.jpg?raw=true "In Box")
+
+![Alt text](All%20Wired%20Up.jpg?raw=true "In Box")
+
