@@ -20,6 +20,8 @@ Pin 12 = Pilot 8
 
 5V ----- Push Button ------- Pin 5 ----- 1K resitor ------- Ground
 
+Basic Arduino code can be found here. ![Alt text](ButtonTimingBasic.ino "Arduino Code")
+
 
 Pic of out of the project box. Ignore the OLED screen I was testing a code that would connect via serial to LiveTime by faking a transponder decoder but emulating a keyboard turned out to be a lot easier than I thought it would. 
 
